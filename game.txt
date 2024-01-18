@@ -34,7 +34,7 @@ Resources
 	*bunny|bunnies
 		name:Bunny|Bunnies
 		desc:These are your bunnies. You can use them to purchase things. Your goal is to have as many bunnies as possible!
-		icon:icons[0,0]
+		icon:icons[0,20]
 		class:noBackground
 		show earned
  
