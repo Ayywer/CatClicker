@@ -1,8 +1,7 @@
 Let's make a game!
-	name:Bunny Clicker
-	by:Orteil
-	desc:This is a simple idle game to showcase some of the basic functionalities of Idle Game Maker.<//>Make bunnies and shoot for the stars!
-	created:25/7/2017
-	updated:24/10/2017
-	version:1
-	
+    name:Cat Clicker
+    by:Aywer
+    desc:I'm just messing around with idle game maker, nothing to see here :)
+    created:13/06/2018
+    updated:13/06/2018
+    version:1
