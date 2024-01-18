@@ -1,7 +1,7 @@
 Let's make a game!
     name:Cat Clicker
     by:Aywer
-    desc:I'm just messing around with idle game maker, nothing to see here :)
+    desc:I'm just messing around with idle game maker, nothing to see here :D
     created:13/06/2018
     updated:13/06/2018
     version:1
